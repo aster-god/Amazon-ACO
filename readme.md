@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/amazon-hero.png" alt="Amazon logo" width="180" />
+  <img src="./assets/amazon-logo.gif" alt="Amazon logo" width="180" />
 
   <br /><br />
 
